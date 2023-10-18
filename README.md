@@ -1,17 +1,25 @@
-The distribution includes two directories:
+The data can be downloaded at the following link:
 
-- chats: 60 csv files containing the keys pressed during the chats and their respective timestamps;
-- personality: 60 csv files containing the answers given by the participants to the Big-Five Inventory 10;
-- protocol: a K-fold protocol.
+<a href="https://www.dropbox.com/scl/fi/3smo02itebd0nceungnhm/Glasgow-Chat-Corpus.zip?rlkey=q7s6i612jlbviv4dtwwcoiy1f&dl=0">Glasgow Chat Corpus</a>
 
-
-If you use the data, you are invited to cite the following articles:
+If you use the data, you are kindly invited to cite the following articles:
 
 - A.Buker, G.Roffo and A.Vinciarelli, "Type Like a Man! Inferring gender from keystroke dynamics in live-chats", IEEE Intelligent Systems, Vol.34, No. 6, pp. 53-59, 2019 (DOI  10.1109/MIS.2019.2948514).
 - A.Buker and A.Vinciarelli, "I Feel it in Your Fingers: Inference of Self-Assessed Personality Traits From Keystroke Dynamics in Interactive Dyadic Chats", Proceedings of the IEEE International Conference on Affective Computing and Intelligent Interactions, 2021 (DOI 10.1109/ACII52823.2021.9597389).
 - A.Buker and A.Vinciarelli, "Who Is Typing? Automatic Gender Recognition from Interactive Textual Chats Using Typing Behaviour", in “Enabling Machine Learning Applications in Data Science. Algorithms for Intelligent Systems”, A.E.Hassanien, A.Darwish, S.M.Abd El-Kader, D.A.Alboaneen (eds.), Springer Verlag, pp. 3-15, 2021.
 
 If you have any questions about the data, please contact Alessandro Vinciarelli (Alessandro.Vinciarelli@glasgow.ac.uk) or Abeer Buker (aabuker@iau.edu.sa).
+
+---
+
+The distribution includes three directories:
+
+- chats: 60 csv files containing the keys pressed during the chats and their respective timestamps;
+- personality: 60 csv files containing the answers given by the participants to the Big-Five Inventory 10;
+- protocol: a K-fold protocol.
+
+
+
 
 ----
 
