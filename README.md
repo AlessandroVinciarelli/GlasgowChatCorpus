@@ -1,6 +1,6 @@
 The data can be downloaded at the following link:
 
-<a href="https://www.dropbox.com/scl/fi/3smo02itebd0nceungnhm/Glasgow-Chat-Corpus.zip?rlkey=q7s6i612jlbviv4dtwwcoiy1f&dl=0">Glasgow Chat Corpus</a>
+<a href="https://www.dropbox.com/scl/fi/y1trjuh729700zlcuw1x2/Glasgow-Chat-Corpus.zip?rlkey=isq0u8sown38xsz5w8uofo4l8&dl=0">Glasgow Chat Corpus</a>
 
 If you use the data, you are kindly invited to cite the following articles:
 
@@ -8,7 +8,7 @@ If you use the data, you are kindly invited to cite the following articles:
 - A.Buker and A.Vinciarelli, "I Feel it in Your Fingers: Inference of Self-Assessed Personality Traits From Keystroke Dynamics in Interactive Dyadic Chats", Proceedings of the IEEE International Conference on Affective Computing and Intelligent Interactions, 2021 (DOI 10.1109/ACII52823.2021.9597389).
 - A.Buker and A.Vinciarelli, "Who Is Typing? Automatic Gender Recognition from Interactive Textual Chats Using Typing Behaviour", in “Enabling Machine Learning Applications in Data Science. Algorithms for Intelligent Systems”, A.E.Hassanien, A.Darwish, S.M.Abd El-Kader, D.A.Alboaneen (eds.), Springer Verlag, pp. 3-15, 2021.
 
-If you have any questions about the data, please contact Alessandro Vinciarelli (Alessandro.Vinciarelli@glasgow.ac.uk) or Abeer Buker (aabuker@iau.edu.sa).
+If you have any questions, please contact Alessandro Vinciarelli (Alessandro.Vinciarelli@glasgow.ac.uk) or Abeer Buker (aabuker@iau.edu.sa).
 
 ---
 
@@ -18,13 +18,9 @@ The distribution includes three directories:
 - personality: 60 csv files containing the answers given by the participants to the Big-Five Inventory 10;
 - protocol: a K-fold protocol.
 
-
-
-
 ----
 
 Directory "chats"
-
 
 The naming convention of the files in directory "chats" is as follows: Cnn-QG.csv, where nn is an integer chat identifier between 1 and 30 with leading zero (e.g., 7 is written "07"), Q is a letter that stands for role ("C" for Caller and "R" for Receiver), and G is a letter that stands for gender ("F" for female and "M" for male).
 
